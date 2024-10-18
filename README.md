@@ -1,2 +1,2 @@
 liferay-devcon24-ws
-Test message
+Test message 23
